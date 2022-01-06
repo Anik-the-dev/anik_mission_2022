@@ -7,7 +7,7 @@ body{
 .section_margin{
     margin-left: 10%;
     margin-right: 5%;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .section_features{
     display: flex;
@@ -22,7 +22,7 @@ body{
 }
 
 h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 .div_half_width{
     width: 50%;
@@ -30,11 +30,7 @@ h1{
 .heading_border{
     padding-left: 15px;
     border-left: 4px solid #FF5959;
-    
-    
    
-    
-    
 }    
     
 
@@ -60,3 +56,49 @@ h1{
     font-weight: 400;
     
 }
+
+.section2_div_headline{
+    text-align: center;
+}
+
+.section2_column_mother_div{
+    
+    display: flex;
+    margin-left: 35px;
+    
+    
+}
+
+.section2_column_mother_div img{
+    width: 33%;
+   
+}
+
+.section2_col1_div{
+    border-radius: 10px;
+    padding: 50px;
+    background-color: #FFEEEE;
+    width: 22%;
+    
+    margin-right: 35px;
+}
+
+h2{
+    font-size: 30px;
+}
+p{
+    color: #3E3E3E;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
