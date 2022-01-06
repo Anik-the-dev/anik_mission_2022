@@ -85,7 +85,7 @@ h3{
 }
 p{
     color: #3E3E3E;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 #section2_col_1{
@@ -109,12 +109,21 @@ h2{
 
 .community_image{
     width: 60%;
-    padding-left: 100px;
-    padding-top: 50px;
+    padding-left: 150px;
+    padding-top: 70px;
 
 }
 
+.coding_image{
+    width: 60%;
 
+}
+
+.div_text_right{
+    padding-top: 80px;
+    margin-left: -150px;
+
+}
 
 
 
