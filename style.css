@@ -26,10 +26,18 @@ h1{
 }
 .div_half_width{
     width: 50%;
+}   
+.heading_border{
+    padding-left: 15px;
+    border-left: 4px solid #FF5959;
+    
+    
    
     
     
-}
+}    
+    
+
 
 .div_text{
     padding-left: 70px;
