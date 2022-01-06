@@ -74,12 +74,10 @@ h1{
    
 }
 
-.section2_col1_div{
+.section2_col_div{
     border-radius: 10px;
     padding: 50px;
-    background-color: #FFEEEE;
     width: 22%;
-    
     margin-right: 35px;
 }
 
@@ -90,6 +88,22 @@ p{
     color: #3E3E3E;
     font-size: 20px;
 }
+
+#section2_col_1{
+    background-color: #FFEEEE;
+
+}
+
+#section2_col_2{
+    background-color: #FFF4D6;
+
+}
+
+#section2_col_3{
+    background-color: #ECF4F5;
+
+}
+
 
 
 
