@@ -142,7 +142,7 @@ input[type=email] {
     font-size: 24px;
     margin-right: 30px;
     border-radius: 100px;
-    border-bottom: 7px solid #A13838;
+    border-bottom: 7px solid #f85555d7;
 }
 
 input[type=checkbox] {
@@ -157,6 +157,22 @@ input[type=checkbox] {
     margin-right: 20px;
     padding-left: 5px;
 
+}
+
+footer{
+    background-color: rgb(31, 31, 37);
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    color: #fff;
+
+    
+}
+
+footer p{
+    color: #fff;
+    font-size: 18px;
 }
 
 
