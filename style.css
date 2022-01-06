@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    font-family: 'Readex Pro', sans-serif;   
+    font-family: 'Readex Pro', sans-serif; 
 } 
 
 .section_margin{
@@ -18,7 +18,6 @@ body{
     
    width: 90%;
    
-    
 }
 
 h1{
@@ -129,6 +128,18 @@ h2{
 .section_bg_color_no_margin{
     background-color: #f6f6f6;
     padding: 3% 10%;
+}
+
+.section4_bg{
+    background-image: url(images/shape/round.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 93% 95%;
+    
+    
+}
+.sec4_speial{
+    padding-bottom: 100px;
 }
 
 .div_text_myown{
