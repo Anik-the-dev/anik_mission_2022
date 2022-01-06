@@ -10,14 +10,11 @@ body{
     margin-bottom: 100px;
 }
 .section_features{
-    display: flex;
-    
+    display: flex;   
 }
 
-.personal_image{
-    
-   width: 90%;
-   
+.personal_image{   
+   width: 90%;  
 }
 
 h1{
@@ -25,15 +22,12 @@ h1{
 }
 .div_half_width{
     width: 50%;
-}   
+} 
+
 .heading_border{
     padding-left: 15px;
     border-left: 5px solid #FF5959;
-    height: 140px;
-    
-    
-    
-   
+    height: 140px;  
 }    
     
 
@@ -68,8 +62,7 @@ h1{
     
     display: flex;
     margin-left: 35px;
-    
-    
+   
 }
 
 .section2_column_mother_div img{
@@ -130,7 +123,7 @@ h2{
 }
 
 .section_bg_color_no_margin{
-    background-color: #f6f6f6;
+    background-color: #fafafa;
     padding: 3% 10%;
 }
 
