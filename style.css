@@ -138,6 +138,18 @@ h2{
     
     
 }
+
+.section3_bg{
+    background-image: url(images/shape/half.png);
+    background-size: 90px;
+    background-repeat: no-repeat;
+    padding-left: 10%;
+    margin-right: 5%;
+    background-position: 6.5% 40%;
+   
+   
+}
+
 .sec4_speial{
     padding-bottom: 100px;
 }
